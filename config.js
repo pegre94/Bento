@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Przemek',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -41,7 +41,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'github',
+      icon: 'gitlab',
       link: 'https://github.com/',
     },
     {
