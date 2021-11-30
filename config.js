@@ -40,21 +40,21 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'Gitlab',
       icon: 'gitlab',
-      link: 'https://github.com/',
+      link: 'https://git.profil-software.com/appatient/backend',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail//',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Trello',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://trello.com/b/QY0M4vYv/appatient?filter=member:przemysawgrenda1',
     },
     {
       id: '4',
